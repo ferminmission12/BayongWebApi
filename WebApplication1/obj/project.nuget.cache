@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "29WxOa0lgOCssUzDPb3Ht8KNGw9+IFP1mcqUdkWd2Lc7M+Wa+nEEWUSTRrAn45wZJP2MD3n8rDxhlY4F6EztSQ==",
+  "dgSpecHash": "q/AEb/+A3nmDxonQFeyMlWuOAtXQSbRjYJRnKiXmRpTJt1a7n2aw52ZmUj7rwnc9OY2gLqXDdUjAE/tUQsVMEg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Fermin Mission\\source\\repos\\BayongAppApi\\WebApplication1\\BayongWebAppApi.csproj",
+  "projectFilePath": "C:\\Users\\Fermin Mission\\source\\repos\\BayongAppApi\\BayongWebApi\\WebApplication1\\BayongWebAppApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Fermin Mission\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Fermin Mission\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

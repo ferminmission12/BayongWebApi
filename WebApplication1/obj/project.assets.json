@@ -8836,11 +8836,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fermin Mission\\source\\repos\\BayongAppApi\\WebApplication1\\BayongWebAppApi.csproj",
+      "projectUniqueName": "C:\\Users\\Fermin Mission\\source\\repos\\BayongAppApi\\BayongWebApi\\WebApplication1\\BayongWebAppApi.csproj",
       "projectName": "BayongWebAppApi",
-      "projectPath": "C:\\Users\\Fermin Mission\\source\\repos\\BayongAppApi\\WebApplication1\\BayongWebAppApi.csproj",
+      "projectPath": "C:\\Users\\Fermin Mission\\source\\repos\\BayongAppApi\\BayongWebApi\\WebApplication1\\BayongWebAppApi.csproj",
       "packagesPath": "C:\\Users\\Fermin Mission\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fermin Mission\\source\\repos\\BayongAppApi\\WebApplication1\\obj\\",
+      "outputPath": "C:\\Users\\Fermin Mission\\source\\repos\\BayongAppApi\\BayongWebApi\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
